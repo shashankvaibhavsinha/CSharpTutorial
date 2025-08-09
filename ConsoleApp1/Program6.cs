@@ -22,7 +22,7 @@ namespace Interface
     }
     class ClassEF : IClassE, IClassF
     {
-        public void printE()
+        public void printEF()
         {
             Console.WriteLine("printEF method invoked");
         }

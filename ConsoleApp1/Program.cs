@@ -39,7 +39,7 @@ namespace ConsoleApp1
             Console.WriteLine("-------Program 5 done-------------");
 
             ClassEF obj6 = new ClassEF();
-            obj6.printE();
+            obj6.printEF();
 
 
         }
